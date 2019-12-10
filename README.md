@@ -29,12 +29,35 @@ If you find this code useful in your research, please consider to cite the follo
 
 ```
 @article{lu2019optimal,
-  title={a closed form solution to universal style transfer},
+  title={a closed-form solution to universal style transfer},
   author={Ming Lu, Hao Zhao, Anbang Yao, Yurong Chen, Feng Xu, Li Zhang},
-  journal={arXiv preprint arXiv:1906.00668},
+  journal={ICCV 2019},
   year={2019}
 }
 ```
 
+## Contemporary Works
+
+I recently find two contemporary works (same conclusions), please also consider to cite them.
+
+```
+@inproceedings{li2019optimal,
+  title={Optimal Transport of Deep Feature for Image Style Transfer},
+  author={Li, Pan and Zhao, Lei and Xu, Duanqing and Lu, Dongming},
+  booktitle={Proceedings of the 2019 4th International Conference on Multimedia Systems and Signal Processing},
+  pages={167--171},
+  year={2019},
+  organization={ACM}
+}
+```
+
+```
+@article{mroueh2019wasserstein,
+  title={Wasserstein Style Transfer},
+  author={Mroueh, Youssef},
+  journal={arXiv preprint arXiv:1905.12828},
+  year={2019}
+}
+```
 
 
